@@ -1,0 +1,14 @@
+layout_spectrum: 0.2994726994074881
+typography_spectrum: 0.46353336330503225
+color:
+  brandStrength: 0.5552329898346215
+  lightness: 0.7722022992093116
+  saturation: 0.9464793798979372
+  rhythmicContrast: 0.1056227560620755
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: gloo
